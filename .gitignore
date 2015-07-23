@@ -1,0 +1,6 @@
+.gradle
+local.properties
+/build
+/.idea/workspace.xml
+/.idea/libraries
+.idea/dictionaries/dongjia.xml

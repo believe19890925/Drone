@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="socket_message_margin">5dp</dimen>
+    <dimen name="socket_console_height">140dp</dimen>
+    <dimen name="socket_console_width">360dp</dimen>
+    <dimen name="socket_console_margin_right">5dp</dimen>
+    <dimen name="socket_console_margin_bottom">5dp</dimen>
+    <dimen name="socket_console_padding">2dp</dimen>
+    <dimen name="socket_ip_margin_right">15dp</dimen>
+    <dimen name="socket_ip_btn_text_size">12sp</dimen>
+
+    <dimen name="socket_record_margin_right">15dp</dimen>
+    <dimen name="socket_record_margin_bottom">15dp</dimen>
+    <dimen name="socket_battery_text_size">16sp</dimen>
+    <dimen name="socket_record_text_size">16sp</dimen>
+
+    <dimen name="socket_record_btn_margin">5dp</dimen>
+    <dimen name="socket_record_btn_width">110dp</dimen>
+
+    <color name="socket_record_text_color">#ffffffff</color>
+
+</resources>
